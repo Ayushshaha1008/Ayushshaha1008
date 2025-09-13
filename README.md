@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushshaha1008](https://github.com/Ayushshaha1008)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **ayushshaha1008@gmail.com**
 
 ---
 
